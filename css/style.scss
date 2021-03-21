@@ -112,6 +112,13 @@ body {
   background-color: #df1111;
 }
 
+.btn-lg {
+  border-radius: 40px;
+  width: 15%;
+  height: 10%;
+  font-weight: 300;
+  font-size: 1em;
+}
 @media screen and (max-width: 1000px) {
   .h1 {
     font-size: 3em;
